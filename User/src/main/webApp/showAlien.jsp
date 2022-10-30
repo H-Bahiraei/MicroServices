@@ -11,9 +11,9 @@
     <title>Title</title>
 </head>
 <body>
-        ${alien}
-        ${alien.aname}
-        ${aliens}
-        ${aliens}
+${alien}
+${alien.aname}
+${aliens}
+${aliens}
 </body>
 </html>

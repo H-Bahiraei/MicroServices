@@ -12,6 +12,7 @@ import javax.persistence.Id;
 @Entity
 public class Alien {
 
+
     @Id
     private int aid;
 
